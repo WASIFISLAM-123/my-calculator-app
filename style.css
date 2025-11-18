@@ -18,9 +18,9 @@
 
         .Main-heading {
             text-align: center;
-            font-size: 25px;
+            font-size: 24px;
             color: white;
-            margin-bottom: 40%;
+            margin-bottom: 41%;
             position: absolute;
         }
 
@@ -147,7 +147,7 @@
 
         .operator {
             background: linear-gradient(145deg, #667eea, #5568d3);
-            color: white;
+            color: #fff;
             font-size: 26px;
         }
 
@@ -157,7 +157,7 @@
 
         .equals {
             background: linear-gradient(145deg, #7e22ce, #6b1bb0);
-            color: white;
+            color: #fff;
             font-size: 26px;
         }
 
@@ -167,7 +167,7 @@
 
         .clear {
             background: linear-gradient(145deg, #ef4444, #dc2626);
-            color: white;
+            color: #fff;
         }
 
         .clear:hover {
@@ -176,7 +176,7 @@
 
         .delete {
             background: linear-gradient(145deg, #f97316, #ea580c);
-            color: white;
+            color: #fff;
         }
 
         .delete:hover {
